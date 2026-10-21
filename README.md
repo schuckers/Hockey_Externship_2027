@@ -9,7 +9,7 @@ This is a tremendous opportunity to work on significant hockey-related questions
 
 Students will be selected based upon an application. Selected students will be provided with access to the relevant data by the Kings, no later than January 5, 2027. 
 Students will meet weekly with Prof. Schuckers and approximately bi-weekly or as necessary with Kings staff.  
-Neither the work that is part of this remote internship, nor the data provided by the Kings will be made public without the written consent of the Kings.  
+Neither the work that is part of this remote internship, nor the data provided by the Kings will be made public without the written consent of the Kings. 
 At the end of the remote internship, students will create a summary of their work that will be presented to the Kings.  
 Undergraduate students will receive three credit hours of DTSC 3400 course credit for this remote internship, while graduate students will receive DTSC 6400 credit.  
 
