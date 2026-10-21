@@ -3,8 +3,8 @@
 ﻿### Spring 2027 Hockey Research Remote Internship
 
 This page provides information about an *unpaid* research remote internship for the Spring 2027 semester at the University of North Carolina at Charlotte.  
-The remote internship is sponsored by the [Los Angeles Kings](https://www.nhl.com/kings/).  
-Students selected for this credit bearing remote internship will be mentored by Prof. Michael Schuckers and by members of the distinguished hockey analytics staff of the LA Kings.  
+The remote internship is sponsored by the [Los Angeles Kings](https://www.nhl.com/kings/). 
+Students selected for this credit bearing remote internship will be mentored by Prof. Michael Schuckers and by members of the distinguished hockey analytics staff of the LA Kings. 
 This is a tremendous opportunity to work on significant hockey-related questions while receiving advice and guidance from working professionals in sports analytics.  
 
 Students will be selected based upon an application. Selected students will be provided with access to the relevant data by the Kings, no later than January 5, 2027. 
