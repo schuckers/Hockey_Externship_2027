@@ -13,7 +13,7 @@ Neither the work that is part of this remote internship, nor the data provided b
 At the end of the remote internship, students will create a summary of their work that will be presented to the Kings.  
 Undergraduate students will receive three credit hours of DTSC 3400 course credit for this remote internship, while graduate students will receive DTSC 6400 credit.  
 
-## remote internship Proposal
+## Remote Internship Proposal
 There are two focus areas for these remote internships: 1) prospect evaluation and 2) transactions.  These are described below.  
 As part of the application students will submit a one-page description of the work they would like to do in one of these two areas.  
 That description should include the goals and motivation for the analysis as well as the data and methods to be used.  
